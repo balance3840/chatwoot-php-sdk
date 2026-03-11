@@ -1,0 +1,33 @@
+{
+    "name": "ramiroestrella/chatwoot-php-sdk",
+    "description": "PHP SDK for the Chatwoot API — Application, Client, and Platform APIs with full DTO support",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["chatwoot", "sdk", "api", "chat", "helpdesk", "support", "customer-support"],
+    "homepage": "https://github.com/balance3840/chatwoot-php-sdk",
+    "authors": [
+        {
+            "name": "Ramiro Estrella",
+            "email": "ramiro.estrellac@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RamiroEstrella\\ChatwootPhpSdk\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "RamiroEstrella\\ChatwootPhpSdk\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

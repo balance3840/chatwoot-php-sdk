@@ -1,0 +1,5 @@
+/vendor/
+/coverage/
+.phpunit.result.cache
+.env
+.env.integration
