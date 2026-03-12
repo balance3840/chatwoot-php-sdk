@@ -1,11 +1,14 @@
 # Chatwoot PHP SDK
 
+[![Tests](https://github.com/balance3840/chatwoot-php-sdk/actions/workflows/tests.yml/badge.svg)](https://github.com/balance3840/chatwoot-php-sdk/actions/workflows/tests.yml)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ramiroestrella/chatwoot-php-sdk.svg)](https://packagist.org/packages/ramiroestrella/chatwoot-php-sdk)
+[![Total Downloads](https://img.shields.io/packagist/dt/ramiroestrella/chatwoot-php-sdk.svg)](https://packagist.org/packages/ramiroestrella/chatwoot-php-sdk)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/ramiroestrella/chatwoot-php-sdk/php)](https://packagist.org/packages/ramiroestrella/chatwoot-php-sdk)
+[![License](https://img.shields.io/packagist/l/ramiroestrella/chatwoot-php-sdk.svg)](https://github.com/balance3840/chatwoot-php-sdk/blob/main/LICENSE)
+
 A full-featured PHP SDK for the [Chatwoot](https://www.chatwoot.com) API with a fluent interface, covering all three API families: **Application**, **Client**, and **Platform**.
 
-**Author:** Ramiro Estrella  
-**License:** MIT  
-**Requires:** PHP 8.1+, Guzzle 7+  
-**Tested against:** Chatwoot 4.11.x
+Tested against **Chatwoot 4.11.x** &nbsp;·&nbsp; PHP 8.1 · 8.2 · 8.3 · 8.4
 
 ---
 
